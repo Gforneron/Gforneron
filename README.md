@@ -11,7 +11,7 @@ Desde siempre, me ha fascinado el mundo de la tecnología y cómo podemos crear 
 💻 **Lenguajes y tecnologías principales:**
 - HTML5, CSS3, JavaScript
 - React.js, Node.js
-- MySQL, MongoDB
+- MySQL
 - Git & GitHub
 
 🔧 **Herramientas:**
